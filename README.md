@@ -14,16 +14,6 @@ This project is a simple Text to Speech (TTS) converter written in Python using 
 - Python 3.x
 - gTTS (Google Text to Speech) library
 
-## Usage
-
-1. Run the Python script:
-    ```sh
-    python main.py
-    ```
-2. Follow the prompts to enter your text, select the language, and choose the accent.
-
-3. The generated speech will be saved as an MP3 file named `audio.mp3` in the project directory.
-
 ## Supported Languages and Accents
 
 ### English (en)
